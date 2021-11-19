@@ -22,7 +22,7 @@ This repository contains research data and scripts from the bachelor thesis [Mic
 
 ### 2. research_data
 
-The research data folder has been removed for reasons of data privacy and protection. However, in case you should be interested in it for own research purposes or to be able to reproduce the findings, you might still [contact me](https://infowissblog.de/en/index.php/kontakt/).
+The research data folder has been removed for reasons of personal users' data privacy and protection. However, in case you should be interested in it for own research purposes or to be able to reproduce the findings, you might still [contact me](https://infowissblog.de/en/index.php/kontakt/).
 
 Also, you can find more information on the research data and what role it played during the research process in chapter 3 of the bachelor thesis itself ("3. Methodik", page 16-28). 
 
